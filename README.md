@@ -29,6 +29,6 @@ cd sentinel-server-monitoring
 .\mvnw spring-boot:run
 ```
 
-Project Background
+## Project Background
 This is a complete rebuild of my original IHK final project "Sentinel – Serverüberwachung".
 The goal was to create a monitoring tool that helps detect and respond to server issues faster.
