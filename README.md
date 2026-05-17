@@ -27,6 +27,7 @@ A full-stack server monitoring application that collects system metrics and erro
 ```bash
 cd sentinel-server-monitoring
 .\mvnw spring-boot:run
+```
 
 Project Background
 This is a complete rebuild of my original IHK final project "Sentinel – Serverüberwachung".
